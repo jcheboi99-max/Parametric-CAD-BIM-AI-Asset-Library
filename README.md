@@ -1,51 +1,111 @@
-Geospatial and CAD Systems Specialist | UK Based
+🧩 Parametric CAD BIM AI Asset Library
 
-I design structured parametric mechanical systems and BIM models optimized for AI research, interoperability testing, and digital asset validation. My work focuses on precision modeling, clean data structures, and reproducible engineering workflows.
+Structured engineering asset library built for 🤖 AI research, 🏗 digital asset validation, and 🔄 CAD BIM interoperability testing.
 
-Core Competencies
+📌 Overview
 
-Parametric part and assembly modeling
+This repository contains constraint driven parametric mechanical parts, structured assemblies, and IFC compliant BIM models prepared for AI training workflows and cross platform validation.
 
-Constraint driven design
+The project demonstrates disciplined modeling practices, reproducible file structures, and standardized export pipelines across mechanical and BIM environments.
 
-GD and T production documentation
+🎯 Objectives
 
-IFC compliant BIM exports
+Build reusable parametric CAD components
 
-STEP and DXF interoperability
+Validate interoperability across STEP, DXF, and IFC formats
 
-CAD automation workflows
+Demonstrate GD and T compliant production documentation
 
-Geometry preparation for AI datasets
+Structure BIM property sets for downstream validation
 
-Tools
+Support geometry variation for AI dataset generation
+
+🛠 Tools Used
 
 AutoCAD Mechanical
+
 Autodesk Inventor
+
 FreeCAD
+
 FreeCAD BIM and IFC
+
 Rhino 3D
+
 BlenderBIM
+
 LibreCAD
+
 SolveSpace
 
-Featured Repositories
-Parametric-CAD-BIM-AI-Asset-Library
+📂 Repository Structure
 
-Structured repository of parametric mechanical components and IFC compliant BIM models prepared for AI training and validation pipelines.
+/parts
+Parametric single component models
 
-Mechanical-Assembly-Validation-Suite
+/assemblies
+Constraint controlled multi part assemblies
 
-Tolerance checked assemblies with production drawings and export validation across CAD platforms.
+/drawings
+Production ready technical drawings with GD and T
 
-IFC-Interoperability-Test-Models
+/exports
+STEP, DXF, and IFC validation exports
 
-BIM models structured with clean property sets and classification for cross platform validation.
+/screenshots
+Assembly renders and workflow visuals
 
-Approach
+📤 Supported Export Formats
+Format	Purpose	Validation Scope
+STEP	Mechanical interoperability	Tested across CAD platforms
+DXF	2D drafting exchange	Verified layer structure
+IFC	BIM data exchange	Property set validation
+📐 Modeling Standards
 
-I build clean file hierarchies, standardized naming systems, and parameter controlled models designed for scalability, dataset generation, and AI assisted engineering research.
+Consistent file naming conventions
 
-Availability
+Parameter controlled geometry
 
-Open to collaboration on CAD automation, BIM workflows, and AI driven design systems.
+Structured assembly hierarchy
+
+IFC property set classification
+
+Reproducible modeling workflow
+
+🖼 Visual Proof
+
+Add screenshots here:
+
+Assembly exploded view
+
+Parametric sketch constraints
+
+IFC viewer validation screenshot
+
+Technical drawing sample page
+
+Place images in the /screenshots folder and embed them using:
+
+🚀 Use Case Alignment
+
+This repository is suitable for:
+
+AI training dataset preparation
+
+CAD automation research
+
+BIM interoperability testing
+
+Digital asset refinement pipelines
+
+Parametric variation generation
+
+📄 License
+
+Add an MIT License file to enable professional reuse.
+
+📫 Contact
+
+Geospatial and CAD Systems Specialist
+📍 Based in United Kingdom
+Open to CAD automation and AI research collaborations
